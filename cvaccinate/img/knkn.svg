@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14.4in" height="7.2in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 31815 15908"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#4DC8F4}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M0 0l31815 0 0 15908 -31815 0 0 -15908z"/>
+   </clipPath>
+     <clipPath id="id1">
+      <path d="M0 0l31815 0 0 15908 -31815 0 0 -15908z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M0 0l31815 0 0 15908 -31815 0 0 -15908z"/>
+     </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_354837976">
+    </g>
+    <g style="clip-path:url(#id1)">
+     <image x="0" y="0" width="31815" height="15908" xlink:href="knkn_Images\knkn_ImgID1.png"/>
+    </g>
+    <g style="clip-path:url(#id2)">
+     <path class="fil0" d="M30 2l-18 5081c0,0 2641,3161 9696,1660 7054,-1501 13678,-4970 16227,-5673 2548,-703 4435,-1070 5121,-1070 686,0 -8226,0 -8226,0l-22800 2z"/>
+    </g>
+   </g>
+  </g>
+  <polygon class="fil1" points="0,0 31815,0 31815,15908 0,15908 "/>
+ </g>
+</svg>
